@@ -1,3 +1,5 @@
+# Домашнее задание по теме "ИНТРОСПЕКЦИЯ"
+
 from PIL import Image
 import inspect
 
